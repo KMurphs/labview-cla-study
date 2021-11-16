@@ -1,0 +1,75 @@
+
+User Message Requirements
+
+[Covers: UM1A]	
+
+Idle State Requirements
+[Covers: ID1] 
+  
+
+ 
+Login State Requirements
+
+
+
+ 
+[Covers: LO3] 
+[Covers: LO3A] 
+[Covers: LO3B] 
+[Covers: LO3C] 
+[Covers: LO3C1] 
+[Covers: LO3C2] 
+
+Balance Inquiry State Requirements
+[Covers: BI1] 
+[Covers: BI1A] 
+[Covers: BI1B]  
+
+Deposit State Requirements
+[Covers: DP1] 
+[Covers: DP1A] 
+[Covers: DP1B] 
+[Covers: DP1C] 
+[Covers: DP1C1] 
+[Covers: DP1C2] 
+[Covers: DP1C3] 
+[Covers: DP1D] 
+
+Withdrawal State Requirements
+[Covers: WD1] 
+[Covers: WD1A]  
+[Covers: WD1B] 
+[Covers: WD1C] 
+[Covers: WD1D]
+[Covers: WD1E] 
+
+Fast Cash State Requirements
+[Covers: FC1] 
+[Covers: FC1A] 
+[Covers: FC1B] 
+[Covers: FC1C] 
+[Covers: FC1C1] 
+[Covers: FC1C2] 
+
+Terminate State Requirements
+[Covers: TS1] 
+[Covers: TS1A] 
+[Covers: TS1B] 
+[Covers: TS1C] 
+
+Inactivity Timeout Requirements
+[Covers: IT1] 
+
+Configuration Database Requirements
+
+
+[Covers: CD2A] 
+
+
+
+
+Error Handling Requirements
+
+
+
+

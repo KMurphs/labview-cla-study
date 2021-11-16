@@ -1,0 +1,4 @@
+EL: Error Logger Module
+FP: Front Panel Element
+SR: Shift Register
+BD: Block Diagram
